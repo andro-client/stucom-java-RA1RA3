@@ -25,7 +25,7 @@ public class P42_RandomDiscount {
         double finalDiscount = 1-(discountPercent/100.00); //porque poniendo 100.00 en vez de 100 funciona?
         double finalPrice = price*finalDiscount;
         System.out.printf(Locale.US, "Discount: %d%%\n", discountPercent);
-        System.out.printf(Locale.US, "Final price: %.2f%\n", finalPrice);
+        System.out.printf(Locale.US, "Final price: %.2f\n", finalPrice);
         
 
         // output

@@ -26,7 +26,7 @@ public class P44_CustomerArrival {
         System.out.println("Customer 4 arrived at minute: "+customer4);
         System.out.println("Customer 5 arrived at minute: "+customer5);
         
-        System.out.println("Average waiting time: "+(double)(customer5/5)+" minutes");
+        System.out.println("Average waiting time: "+(customer5/5.00)+" minutes");
 
         // Write your program here
         // Hint: Simulate customer arrivals with random times and track count
