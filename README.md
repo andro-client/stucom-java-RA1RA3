@@ -5,7 +5,6 @@ MP0485 (Programació) a STUCOM.
 
 ## Eines
 
-| | |
 |---|---|
 | **Llenguatge** | Java |
 | **IDE** | NetBeans |
