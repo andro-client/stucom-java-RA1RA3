@@ -15,10 +15,11 @@ MP0485 (Programació) a STUCOM.
 | Treball | Data |
 |---|---|
 | `prog1` | 14/09/2026 – 08/10/2026 |
-| `prog2` | Sense data determinada |
+| `prog2` | 09/10/2026 - 22/10/2026 |
 | `examen_simulacro` | 25/09/2026 |
 | `examen_simulacro2` | 30/09/2026 |
 | `examen` | 02/10/2026 |
+| `examen 2` | 23/10/2026 |
 
 ## Com obrir els projectes
 
