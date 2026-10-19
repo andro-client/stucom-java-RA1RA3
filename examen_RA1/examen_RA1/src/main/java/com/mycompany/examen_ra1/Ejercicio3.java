@@ -12,7 +12,7 @@ public class Ejercicio3 {
     public static void main(String[] args) {
         Random random = new Random();
         double precio_diario = 42.75;
-        int duracion_alquiler = (int)random.nextDouble(10)+5;
+        int duracion_alquiler = random.nextInt(11)+5;
         int tarifa_gestion = 35;
         double precio_final = precio_diario*duracion_alquiler+tarifa_gestion;
         System.out.printf("El alquiler de un vehiculo durante %d dias es: %.2f euros", duracion_alquiler, precio_final);
