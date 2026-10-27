@@ -20,6 +20,7 @@ MP0485 (Programació) a STUCOM.
 | `examen_RA1_simulacro2` | 30/09/2026 |
 | `examen_RA1` | 02/10/2026 |
 | `examen_RA3_simulacro` | 21/10/2026 - 23/10/2026 |
+| `examen_RA3_simulacro2` | 27/10/2026 |
 | `examen_RA3` | 27/10/2026 |
 
 ## Com obrir els projectes
@@ -36,4 +37,5 @@ MP0485 (Programació) a STUCOM.
 ## Notes
 
 - Aquest repositori té finalitats d'aprenentatge.
-- El treball encara no està acabat.
+- `examen_RA3_simulacro2` es va fer com a pràctica abans de l'examen pel meu compte.
+- El treball d'aquests dos RA està finalitzat.
